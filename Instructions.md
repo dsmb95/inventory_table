@@ -163,5 +163,3 @@ useEffect(() => {
 ---
 
 ✅ **Pro Tip for Students:** Keep your `.env` file local and never commit it to GitHub. Render has its own environment variable settings to keep credentials safe.
-
-MONGODB USER & PASSWORD: shopping_user:eE3oeaRg4U2sgaHz
